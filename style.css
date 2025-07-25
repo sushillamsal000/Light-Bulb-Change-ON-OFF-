@@ -1,0 +1,17 @@
+/* 
+  style.css - CSS styles for Light Bulb Switch project
+  Styles the light bulb image and the toggle button
+*/
+
+img{
+    width: 50%;
+    height: 500px;
+    display: block;
+    margin: 0 auto;
+}
+button{
+    display: block;
+    margin: 0 auto;
+    height: 50px;
+    width: 100px;
+}
